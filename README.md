@@ -1,23 +1,25 @@
-<h1 align="center">Next Boilerplate</h1>
+<h1 align="center">Edge URLShortener</h1>
 
 <p align="center">
   <img alt="Made by" src="https://img.shields.io/badge/made%20by-Morpa%20-%2356BEB8">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/Next-Boilerplate.svg?color=56BEB8">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/edge-shortener.svg?color=56BEB8">
 
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/Next-Boilerplate.svg?color=56BEB8">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/edge-shortener.svg?color=56BEB8">
 
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/edge-shortener?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/edge-shortener?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/edge-shortener?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Morpa/edge-shortener?color=56BEB8">
 
-  <img alt="CI" src="https://github.com/Morpa/boilerplate/workflows/ci/badge.svg?color=56BEB8">
+  <img alt="CI" src="https://github.com/Morpa/edge-shortener/workflows/ci/badge.svg?color=56BEB8">
 
 </p>
+
+<p>Vercel Edge Function URL Shortener with Upstash Redis</p>
 
 ## What is inside?
 
@@ -28,7 +30,6 @@ This project uses lot of stuff as:
 - [Styled Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
