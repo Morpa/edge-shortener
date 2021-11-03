@@ -1741,10 +1741,10 @@
     "@typescript-eslint/types" "5.2.0"
     eslint-visitor-keys "^3.0.0"
 
-"@upstash/redis@^0.1.11":
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-0.1.11.tgz#5fcc02d0491160fd527418a8110c465a9ec2f843"
-  integrity sha512-muEFSVCUVi0861Q7OgfZzWvs1bQ8AIdBMCv7Z3vPLd759dgxfqyBh6IkcS31PIZtxo8S/p+dDXvHxv3nueZSBQ==
+"@upstash/redis@^0.1.21":
+  version "0.1.21"
+  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-0.1.21.tgz#ce34f6a762c5a47b3fabb9ebbdb2222368a9dfd3"
+  integrity sha512-N78a5Vkpi5EgHgj/KDm9vupFxrT6q9CjnMl/NmcD5Z8i7k4zQDct1ngc5zYBqNYFlzOHXwgleBdI6G3YR4cTJg==
   dependencies:
     isomorphic-unfetch "^3.1.0"
 
