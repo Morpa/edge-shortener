@@ -1687,10 +1687,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.1.tgz#20f18294f797f2209b5f65c8e3b5c8e8261d127c"
   integrity sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==
 
-"@types/styled-components@^5.1.16":
-  version "5.1.16"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.16.tgz#e6cb31301ff8d6b99e25502d2bea754069c1efc9"
-  integrity sha512-pj5zI2VvK86VB9vS5exwXpIvQxiiwVfBTmMYcfMzwQAhB6s+x0a7o2JKzsGviWgjjosuwfYlOyf3JrEvmLPhtg==
+"@types/styled-components@^5.1.17":
+  version "5.1.17"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.17.tgz#0b5ecf748eb5fb81db4b4115b168a162379c181b"
+  integrity sha512-niMaIan3C2LYCGEPntljGrkxLBfz1RZf4WTTv7w9GJygMsCOl226/UoSwXC8dIHCHs4sQKFQUs5JtdL2hj7k0g==
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
@@ -1834,10 +1834,10 @@
     "@typescript-eslint/types" "5.4.0"
     eslint-visitor-keys "^3.0.0"
 
-"@upstash/redis@^0.1.22":
-  version "0.1.22"
-  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-0.1.22.tgz#cbed3e1aa06130aaa43d6cc2db5df055ee4457ac"
-  integrity sha512-id5HYoMAZToygCqM0DIqEOc8zqYbqbt7fluGkh63GpMv6XGsJgweiiyTcWQdTas9AVq0dxcMCuHNAGX7Ovog9g==
+"@upstash/redis@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-0.2.0.tgz#3db0166c8bec810dac15d7d857dd0bf8b6bd90b4"
+  integrity sha512-UYrqHRA6JhwS7Nolqa3XdNTlMez1u6MH1hoRMTEcx6M0DeQD5Zy7yH9iF9ofxBDLSpdeH1vl/1d9HSqDY+QH3g==
   dependencies:
     isomorphic-unfetch "^3.1.0"
 
