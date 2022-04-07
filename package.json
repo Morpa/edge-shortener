@@ -20,7 +20,7 @@
     ]
   },
   "dependencies": {
-    "@upstash/redis": "^0.2.1",
+    "@upstash/redis": "^1.1.0",
     "next": "12.1.4",
     "next-pwa": "^5.4.6",
     "react": "17.0.2",
