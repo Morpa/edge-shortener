@@ -1828,10 +1828,10 @@
     "@typescript-eslint/types" "5.19.0"
     eslint-visitor-keys "^3.0.0"
 
-"@upstash/redis@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-1.2.0.tgz#bb8f030724d167b6e5bd7ffbb77f18016a184cab"
-  integrity sha512-7Cm0OrUrOFf00hSPBY/g5CIOzSyIntMB8ZejUqSuVueaKaDrxtrN2pFF92aELSNEfcdG1wmt3i3FwTVtT0Fa5Q==
+"@upstash/redis@^1.12.0":
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-1.12.0.tgz#4009ae887a4fd901787878694b7987df3c824df4"
+  integrity sha512-i6oarviHs7xOi9aLe8N52bFSg8FAC8JeArINLqtlEuLGNTkIhdNIJYEs4Sk/xq0EDmHSXFGPWdp+6R8JL9XoIg==
   dependencies:
     isomorphic-fetch "^3.0.0"
 
